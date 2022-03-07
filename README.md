@@ -4,4 +4,4 @@
 3. run `pip install -r requirements.txt` to install the required dependencies.
 4. run command `python manage.py makemigrations` to generate the SQL commands.
 5. run command `python mangae.py migrate` to execute the SQL commands.
-6. run command `python manage.py runserver` adn head over to https://localhost:8000/details to interact with a database through an API.
+6. run command `python manage.py runserver` adn head over to http://localhost:8000/details to interact with a database through an API.
